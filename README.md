@@ -1,6 +1,6 @@
 # go-server
 ## A simple web server with Golang
-This repository contains the code files for a simple web browser in Golang
+This repository contains the code files for a simple web server in Golang
 
 ![](https://github.com/imran1509/go-server/blob/main/Assets/go-server-thumb-Mohd_Imran.png)
 
